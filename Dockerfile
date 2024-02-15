@@ -1,1 +1,1 @@
-FROM lscr.io/linuxserver/radarr:5.1.3.8246-ls196@sha256:b4ea6d2132710253d14b2543a3acf6ad63c3feca9afd39e7de806592ec1ef466
+FROM lscr.io/linuxserver/radarr:5.2.6.8376-ls202@sha256:b461ecc7c20448f99eb12db0fae32585715101de9968a02a84b515ae1cf3495e
